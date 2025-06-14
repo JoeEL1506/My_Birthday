@@ -89,3 +89,13 @@ body {
       margin-top: 10px;
       color: #333;
     }
+    .footer {
+      max-width: 100%;
+      margin: 20px auto;
+      padding: 10px;
+      background: #333;
+      color: white;
+      text-align: center;
+      font-size: 0.9em;
+      border-radius: 5px;
+    }
