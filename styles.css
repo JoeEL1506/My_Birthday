@@ -22,6 +22,14 @@ body {
       font-size: 1.2em;
       margin-bottom: 20px;
     }
+    .marquee {
+      background: #ffeb3b; /* Bright yellow for festive vibe */
+      padding: 10px;
+      margin: 20px auto;
+      max-width: 500px;
+      color: #333;
+      font-weight: bold;
+    }
     .music-player {
       max-width: 500px;
       margin: 20px auto;
